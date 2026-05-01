@@ -16,9 +16,9 @@ Can only use simple Korean words that follow the batchim rules:
 4. Nasalization
 
 Here are a few words to try:
-꽃이
-국물
-같이
-굳이
-굳이
-책을
+꽃이<br>
+국물<br>
+같이<br>
+굳이<br>
+굳이<br>
+책을<br>
