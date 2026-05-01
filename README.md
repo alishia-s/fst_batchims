@@ -20,5 +20,5 @@ Here are a few words to try:
 국물<br>
 같이<br>
 굳이<br>
-굳이<br>
+십오<br>
 책을<br>
